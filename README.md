@@ -14,3 +14,6 @@ manage your inventory of books, movies and games all in one place.
 - able to track user stats related to the objects. (history of borrowing, times played/read/watched, game stats, solo/group?)
 - track wishlist and lost inventory 
 - category/genre tags 
+
+## V2
+once basics are up and running, create an android app.  
